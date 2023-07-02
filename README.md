@@ -1,2 +1,2 @@
-# Sun-Unity-3D
-Sun using Shader Graph in URP pipeline of Unity
+# Star-Unity-3D
+Star using Shader Graph in URP pipeline of Unity
